@@ -1,0 +1,58 @@
+{
+  "project_info": {
+    "project_number": "898896158917",
+    "firebase_url": "https://fcmdemo-44b4f.firebaseio.com",
+    "project_id": "fcmdemo-44b4f",
+    "storage_bucket": "fcmdemo-44b4f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:898896158917:android:f484de07b5356350",
+        "android_client_info": {
+          "package_name": "net.webersoftwaresolutions.fcmdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "898896158917-b0vetmsl27tchj5n1rio2c53fhuujped.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "net.webersoftwaresolutions.fcmdemo",
+            "certificate_hash": "37aead690809bbdbb07d078f1c5da7f283cddb81"
+          }
+        },
+        {
+          "client_id": "898896158917-h60kr7jgvunfvajcbv3bl2pmc3e1iogc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0UcKKOf4PdvPwqGnOQGNRqbCIxQ7utgY"
+        },
+        {
+          "current_key": "AIzaSyA6i4DQaDfiD8856rgN7M3KywOfu00AMzI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "898896158917-h60kr7jgvunfvajcbv3bl2pmc3e1iogc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
